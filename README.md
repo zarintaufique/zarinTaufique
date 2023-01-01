@@ -6,7 +6,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-My name is Zarin Taufique and I am pursuing a degree in CS FAST University. I have worked with  C, C++, Java, MySql, HTML and Databases. 
+My name is Zarin Taufique and I am pursuing a degree in CS FAST University. I have worked with  C, C++, Java, MySql, HTML and Databases. I have a good experience with Quality Assurance and Software Testing. Besides this, I am fond of sketching, drawing and painting as well. I also love to watch comedy sitcoms and seasons in my free time.
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zarinTaufique&theme=black-ice)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinTaufique&theme=tokyonight&layout=compact)](https://github.com/zarnTaufique/github-readme-stats)
