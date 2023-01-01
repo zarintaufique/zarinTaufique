@@ -5,10 +5,7 @@
 </h1>
 </div>
 
-
-***
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zarinTaufique&theme=black-ice)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinTaufique&theme=tokyonight&layout=compact)](https://github.com/zarnTaufique/github-readme-stats)
 
-***
