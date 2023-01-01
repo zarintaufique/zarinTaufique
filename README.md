@@ -5,6 +5,10 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e472d4inhv8kshwvb2sav71l4q6pgd7gfhiox7qaxo7&rid=giphy.gif&ct=g" width="400" height="300"/>
+</div>
+
 ### :woman_technologist: About Me :
 My name is Zarin Taufique and I am pursuing a degree in CS from FAST University. I have worked with  C, C++, Java, MySql, HTML and Databases. I have a good experience with Quality Assurance and Software Testing. Besides this, I am fond of sketching, drawing and painting as well. I also love to watch comedy sitcoms and seasons in my free time.
 
