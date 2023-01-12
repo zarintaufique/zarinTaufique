@@ -41,11 +41,11 @@ My name is Zarin Taufique and I am pursuing a degree in CS from FAST University.
 #### :computer: As a Developer, I am fluent with 
 ***
 
-    :point_right: C
-    :point_right: C++
-    :point_right: Python
-    :point_right: Java
-    :point_right: Assembly Language
-    :point_right: MySQL
-    :point_right: HTML, CSS
-    :point_right: Javascript
+     C
+     C++
+     Python
+     Java
+     Assembly Language
+     MySQL
+     HTML, CSS
+     Javascript
